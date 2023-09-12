@@ -9,6 +9,7 @@ This repo will hold a visual representation of my projects for
 -Game Development Tools : Stage A  
 -DCC Procedural Creation : Stage A  
 -Pipeline Automation : Stage 0  
+-Allan  McKay Technical Director Certification : Restart Sep 2023 ~5%
 
 ###### DCC Software:   
 3Ds Max | MaxScript, Python  
